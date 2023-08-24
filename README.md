@@ -1,4 +1,4 @@
-# FemMetalEtherealRiffs-bot
+# FemMetalEtherealRiffs (bot)
 This is the Discord bot to listen and discover many female-fronted rock/metal bands from around the world (STILL IN DEVELOPMENT)
 
 Purpose: Show songs, information and last updates of female-fronted rock/metal bands around the world.
