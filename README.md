@@ -11,3 +11,12 @@ Functionalities: - queieng songs
                  - recommend artists and songs on a daily basis
                  - provide lyrics on request
                  - information about bands
+                 
+##Prerequisites
+1. Python
+2. discord.py
+3. os.py
+4. dotenv.py
+5. asyncio
+6. spotipy
+7. FFmpeg.exe
