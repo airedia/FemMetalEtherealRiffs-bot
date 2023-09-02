@@ -3,14 +3,14 @@ This is the Discord bot to listen and discover many female-fronted rock/metal ba
 
 Purpose: Show songs, information and last updates of female-fronted rock/metal bands around the world.
 
-Functionalities: - queieng songs
-                 - play/playback
-                 - find songs and bands by song/band or band members' names, key words, lyrics, text
-                 - retrieve information about bands' next shows
-                 - bands' updates
-                 - recommend artists and songs on a daily basis
-                 - provide lyrics on request
-                 - information about bands
+Functionalities: 1. queieng songs
+                 2. play/playback
+                 3. find songs and bands by song/band or band members' names, key words, lyrics, text
+                 4. retrieve information about bands' next shows
+                 5. bands' updates
+                 6. recommend artists and songs on a daily basis
+                 7. provide lyrics on request
+                 8. information about bands
                  
 ## Prerequisites
 1. Python
