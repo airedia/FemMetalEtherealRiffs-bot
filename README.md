@@ -12,7 +12,7 @@ Functionalities: - queieng songs
                  - provide lyrics on request
                  - information about bands
                  
-##Prerequisites
+## Prerequisites
 1. Python
 2. discord.py
 3. os.py
