@@ -21,5 +21,6 @@ This is the Discord bot to listen and discover many female-fronted rock/metal ba
 3. os.py
 4. python-dotenv
 5. asyncio
-6. spotipy
-7. FFmpeg.exe
+6. pytube
+7. google-api-python-client
+8. FFmpeg.exe
