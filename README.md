@@ -8,7 +8,7 @@ This is the Discord bot to listen and discover many female-fronted rock/metal ba
 **Functionalities** : 
 1. Queuing songs
 2. Play/Playback ✔️
-3. Find songs and bands by song/band or band members' names, key words, lyrics, text
+3. Find songs and bands by song/band or band members' names, key words, lyrics, text ✔️
 4. Retrieve information about bands' next shows
 5. Bands' updates
 6. Recommend artists and songs on a daily basis
